@@ -4,6 +4,6 @@ public with sharing class apex1 {
     }
 
     public static Integer multiplicar(){
-        return 2*2;
+        return 2*3;
     }
 }
