@@ -3,7 +3,7 @@ public with sharing class apex1 {
 
     }
 
-    public static Integer multiplicar(){
-        return 2*3;
+    public static Integer sumar(){
+        return 2+3;
     }
 }
