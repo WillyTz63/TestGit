@@ -4,6 +4,6 @@ public with sharing class apex1 {
     }
 
     public static Integer sumar(){
-        return 2+3;
+        return 2+5;
     }
 }
